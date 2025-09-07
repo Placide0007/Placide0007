@@ -1,6 +1,6 @@
-## Bonjour! 👋
+Hello! 👋
 
-Moi c’est Lazare Placide Andriatahina, développeur web & étudiant en info math.  
-Je code, j’apprends, je galère, mais je kiffe grave !
+I’m Lazare Placide Andriatahina, learning Laravel backend development.
+I code, I learn, and I enjoy programming.
 
-Merci de votre visite ✌️
+Thanks for visiting ✌️
