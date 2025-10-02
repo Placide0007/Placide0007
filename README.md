@@ -1,6 +1,9 @@
 Hello! 👋
 
-I’m Lazare Placide Andriatahina, learning Laravel backend development.
-I code, I learn, and I enjoy programming.
+I'm Lazare Placide Andriatahina, currently learning Laravel for backend development.
+I love to code, learn, and explore everything about programming.
 
-Thanks for visiting ✌️
+Feel free to reach out:
+📧 lazareplacide02@gmail.com
+
+Thanks for visiting! ✌️
